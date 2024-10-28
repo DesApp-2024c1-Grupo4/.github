@@ -74,7 +74,7 @@ Beevents es una plataforma de reserva de tickets para eventos como conciertos, c
 1. **Frontend**:
    - Clonar el repositorio:
      ```bash
-     git clone [<url_repositorio_frontend>]https://github.com/DesApp-2024c1-Grupo4/beevents-front.git](https://github.com/DesApp-2024c1-Grupo4/beevents-front.git)
+     git clone https://github.com/DesApp-2024c1-Grupo4/beevents-front.git
      cd frontend
      ```
    - Instalar dependencias:
@@ -90,7 +90,7 @@ Beevents es una plataforma de reserva de tickets para eventos como conciertos, c
 2. **Backend**:
    - Clonar el repositorio:
      ```bash
-     git clone [<url_repositorio_backend>](https://github.com/DesApp-2024c1-Grupo4/beevents-back.git)
+     git clone https://github.com/DesApp-2024c1-Grupo4/beevents-back.git
      cd backend
      ```
    - Instalar dependencias:
