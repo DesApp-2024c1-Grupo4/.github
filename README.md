@@ -27,7 +27,7 @@ Beevents es una plataforma de reserva de tickets para eventos como conciertos, c
 
 ### Requisitos de Infraestructura
 
-1. **Entorno de despliegue**: Actual en [Render](https://render.com/) (puede ser adaptable a otros servicios en la nube o servidores propios on-premise).
+1. **Entorno de despliegue**: Actual en [Render](https://beevents.onrender.com/) (puede ser adaptable a otros servicios en la nube o servidores propios on-premise).
 2. **Especificaciones mínimas**:
    - Memoria RAM: 512 MB
    - Procesador: 1000 MHz
